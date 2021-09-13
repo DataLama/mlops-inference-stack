@@ -1,0 +1,6 @@
+[core]
+    remote = nlp-storage
+['remote "nlp-storage"']
+    url = s3://ap-aidev-nlp-modelarchive-test
+    region = ap-northeast-2
+    profile = aidev

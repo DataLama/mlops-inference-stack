@@ -1,0 +1,5 @@
+outs:
+- md5: 4ae39c6ca18a6f86b769ce912628bf9f.dir
+  size: 450258809
+  nfiles: 16
+  path: sbst_v1
